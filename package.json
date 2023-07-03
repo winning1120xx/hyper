@@ -102,7 +102,7 @@
     "babel-loader": "9.1.2",
     "concurrently": "8.0.1",
     "copy-webpack-plugin": "11.0.0",
-    "cpy-cli": "^4.2.0",
+    "cpy-cli": "^5.0.0",
     "cross-env": "7.0.3",
     "electron": "24.0.0",
     "electron-builder": "^23.3.3",
